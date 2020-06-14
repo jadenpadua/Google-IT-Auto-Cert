@@ -1,1 +1,1 @@
-Cert practice for Google IT proffesional Automation Exam
+Sys Admin practice spinning up Virtual Machines and building infrastructure
